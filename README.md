@@ -4,6 +4,8 @@ My name is Pierre Calvet, I'm a student at Télécom Physique Strasbourg enginee
 
 After Astrophysics, I'm love coding and I hope to unite both in a future work !
 
+You will find some of the work I have worked on or currently working on here.
+
 Python | C/C++ | MATLAB | Go
 
 How to reach me : pierre.calvet@etu.unistra.fr
